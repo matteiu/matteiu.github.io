@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Economics at Brown University. I am an applied economist and my research currently focuses on development economics, political economics, and long run economic growth.
+Welcome! I am a Ph.D. Candidate in Economics at Brown University. I am an applied economist and my research currently focuses on development economics, political economics, and long run economic growth.
 
 In my job market paper, I use a regression discontinuity design to show how poverty alleviating cash transfers targeting women in Pakistan are changing their attitudes toward welfare.
 
