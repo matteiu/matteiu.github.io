@@ -2,8 +2,8 @@
 title: "Poverty Targeted Cash Transfers & Attitudes Towards Redistribution"
 collection: research
 permalink: /research/bisp_redistribution
-excerpt: '[R. R. Jamil](https://rehanrjamil.com)'
-authors: 'with R. R. Jamil'
+excerpt: 'with [R. R. Jamil](https://rehanrjamil.com)'
+date: '2021-01-01'
 venue:
 paperurl: 
 citation: 
