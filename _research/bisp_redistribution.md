@@ -3,7 +3,7 @@ title: "Poverty Targeted Cash Transfers & Attitudes Towards Redistribution"
 collection: research
 permalink: /research/bisp_redistribution
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021-01
+date: 2021-01-15
 venue: 
 paperurl: 
 citation: 
