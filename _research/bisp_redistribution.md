@@ -5,7 +5,7 @@ permalink: /research/bisp_redistribution
 excerpt: 'with [R. R. Jamil](https://rehanrjamil.com)'
 date: '2021-01-01'
 venue:
-paperurl: 
+paperurl: 'manuscript available soon'
 citation: 
 ---
 with [R. R. Jamil](https://rehanrjamil.com) 
