@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "matteo iudice"
+title                    : "MATTEO IUDICE"
 title_separator          : "-"
 name                     : &name "Matteo Iudice"
 description              : &description "Ph.D. Candidate, Brown University"
@@ -185,6 +185,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  research:
     output: true
     permalink: /:collection/:path/
 
