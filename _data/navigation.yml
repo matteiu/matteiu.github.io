@@ -4,7 +4,7 @@ main:
     url: /about/
 
   - title: "research"
-    url: /publications/
+    url: /research/
 
   - title: "teaching"
     url: /talks/    
