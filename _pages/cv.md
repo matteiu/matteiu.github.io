@@ -11,5 +11,5 @@ redirect_from:
 
 Download: [Resume](/files/resume_matteoiudice_7.pdf), [CV](/files/cv_matteoiudice_7.pdf).
 
-<iframe src="/files/cv_matteoiudice_7.pdf" width="100%" height="1000" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/cv_matteoiudice_7.pdf" width="90%" height="1200" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
