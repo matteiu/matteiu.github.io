@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Donwload a pdf version: Resume, CV.
+Download a pdf version: Resume, CV.
 
 Education
 ======
