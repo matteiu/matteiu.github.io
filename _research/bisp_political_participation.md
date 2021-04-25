@@ -3,7 +3,7 @@ title: "Being Seen by the State: Cash Transfers and Women’s Political Particip
 collection: research
 permalink: /research/bisp_political_participation
 excerpt: 'with [R. R. Jamil](https://rehanrjamil.com)'
-date: '2021-01-01'
+date: '2021-04-01'
 venue:
 paperurl: 
 citation: 
